@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! My name is Sérgio Guedes, I’m 20 years old and I’m from Ceará, Brazil. I finished high school at Maria José Medeiros Professional State School, where I took a technical course in Computer Networks. Currently, I’m studying Systems Analysis and Development at Uniasselvi. I’m really passionate about technology and love sharing what I learn here and on my LinkedIn: Sérgio Guedes.</p>
+<p align="left">Hi! My name is Sérgio Guedes, I’m 20 years old and I’m from Ceará, Brazil. I finished high school at Maria José Medeiros Professional State School, where I took a technical course in Computer Networks. Currently, I’m studying Systems Analysis and Development at Uniasselvi. I’m really passionate about technology and love sharing what I learn here and on my LinkedIn: <a href="https://www.linkedin.com/in/sergioluis-guedes?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Sérgio Guedes.</a></p>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eusejo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eusejo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -58,6 +58,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/eusejo/eusejo/output/snake.svg" alt="Snake animation" />
-</div>
 
 ###
